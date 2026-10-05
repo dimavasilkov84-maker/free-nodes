@@ -1,4 +1,4 @@
-404: Not Found#profile-title: @Raydikalx — TOP 100
+vless://d3b2c1a0-4e5f-6a7b-8c9d-0e1f2a3b4c5d@172.64.67.7:443?encryption=none&security=tls&sni=crimson-dew-2593.dimavasilkov84.workers.dev&fp=chrome&type=ws&host=crimson-dew-2593.dimavasilkov84.workers.dev&path=%2F%3Fed%3D2048#Cloudflare-VLESS-Personal
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
